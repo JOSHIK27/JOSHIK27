@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966">
 <p align="left"> <a href="https://twitter.com/aspirant_4021" target="blank"><img src="https://img.shields.io/twitter/follow/aspirant_4021?logo=twitter&style=for-the-badge" alt="aspirant_4021" /></a> </p>
 
-- 🔭 I’m currently working on **a course selling platform (MERN)**
+- 🔭 I’m currently working on **TRENDYTRANCE MERN PROJECT**
 
 - 🌱 I’m currently learning **NEXT JS**
 
