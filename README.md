@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **joshikroshan4021@gmail.com**
 
-- joshikroshan.live
+- **joshikroshan.live**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
