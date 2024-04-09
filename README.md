@@ -2,7 +2,6 @@
 <h3 align="center">A FULL STACK WEB DEVELOPER</h3>
 <p align="left"> <a href="https://twitter.com/aspirant_4021" target="blank"><img src="https://img.shields.io/twitter/follow/aspirant_4021?logo=twitter&style=for-the-badge" alt="aspirant_4021" /></a> </p>
 
-- 🌱 I love building things out of comfort
 
 - 📫 How to reach me **joshikroshan4021@gmail.com**
 
